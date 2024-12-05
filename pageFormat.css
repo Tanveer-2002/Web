@@ -1,0 +1,26 @@
+body{
+    background-image: url(images/blue.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 300%;
+    font-family: "algerian";
+    color: black;
+    background-color: lightslategray;
+    border: 5px solid white;
+    text-align: center;
+}
+h2{
+   background-color: lightpink;
+   text-align: center;
+   color:black;
+   border: 2px solid bisque;
+   font-size: 50px; 
+   padding: 50px;
+   margin: 50px;
+}
+hr{
+    border: 1px solid black;
+}
